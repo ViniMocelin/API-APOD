@@ -1,0 +1,15 @@
+*{
+    margin:  0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Courgette', cursive;
+}
+#info{
+    background-color: blue;
+}
+.visual{
+    background-color: rgb(241, 17, 17);
+}
+.resultado{
+    background-color: black;
+}
